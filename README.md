@@ -5,7 +5,7 @@
 
 ## 剑指offer
 
-[剑指offerC++实现](git@github.com:youxiaokai/Algorithm.git)
+[剑指offerC++实现](https://github.com/youxiaokai/coding-interviews)
 
 
 
@@ -13,13 +13,22 @@
 
 [1.两数之和](https://github.com/youxiaokai/Algorithm/blob/master/LeetCode/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) 
 
+2.两数相加
+
+3.无重复字符的最长子串
+
+5.最长回文子串
+
 15. 三数之和
-
-17. 电话号码的字母组合
-
-19. 删除链表的倒数第N个节点
-
+16. 电话号码的字母组合
+17. 删除链表的倒数第N个节点
 20. 有效的括号
+
+21. 合并两个有序链表
+
+22. 括号生成
+
+
 
 
 
